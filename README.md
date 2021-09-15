@@ -7,7 +7,7 @@
 
 ## 🙋🏻‍♂️ About Me
 
-- 🌦 I’m currently working on a weather info app-  **[Wiindy-The Weather App](https://wiindy.netlify.app/)**
+- 🌦 My Most Recent Project-  **[Wiindy-The Weather App](https://wiindy.netlify.app/)**
 
 - ☘ I’m currently learning **React and Redux.**
 
