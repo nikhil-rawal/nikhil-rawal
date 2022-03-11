@@ -9,7 +9,7 @@
 
 - 🌦 My Most Recent Project-  **[Wiindy-The Weather App](https://wiindy.netlify.app/)**
 
-- ☘ I’m currently applying **React and Redux.**
+- ☘ I’m currently applying **Full Stack Development**
 
 - 🧛🏻‍♂️ I’m looking to collaborate on **OpenSource Projects**
 
