@@ -21,7 +21,8 @@
 - 🥘 Fun fact 2  **I am a foodie.**
 
 - 📚 This series changed my views towards Javascript. Must watch [🙏Namaste Javascript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
-  <br/><br/>
+
+  <br/> 
 
 ## 🚀 My Weapons:
 
@@ -37,6 +38,8 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>   
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 </p>
+
+<br/>
 
 ## 📊 My Github Stats
 
@@ -54,11 +57,11 @@
 
 ## Connect with me:
 <p align="left">
-
 <a href = "https://www.linkedin.com/in/nikhil-rawal/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/nnikhil.rrawal/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
 </p>
+
+<br/>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
