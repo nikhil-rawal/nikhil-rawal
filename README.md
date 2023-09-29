@@ -46,7 +46,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/placidnikz/github-readme-streak-stats">
+    <a href="https://github.com/nikhil-rawal/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nikhil Rawal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=placidnikz&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -54,8 +54,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/placidnikz/github-readme-stats"><img alt="Nikhil Rawal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=placidnikz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/placidnikz/github-readme-stats"><img alt="Nikhil Rawal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=placidnikz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/nikhil-rawal/github-readme-stats"><img alt="Nikhil Rawal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=placidnikz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/nikhil-rawal/github-readme-stats"><img alt="Nikhil Rawal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=placidnikz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -63,7 +63,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/placidnikz/github-readme-activity-graph"><img alt="Nikhil Rawal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=placidnikz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/nikhil-rawal/github-readme-activity-graph"><img alt="Nikhil Rawal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=placidnikz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -71,15 +71,13 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/nikhilrawalplacidnikz/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/placid_nikz"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/placid_nikz/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/theplacidnikz"><img src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" alt="Facebook Logo" height="43" width="43"/></a>
+<a href = "https://www.linkedin.com/in/nikhil-rawal/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/nnikhil.rrawal/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=placidnikz">
+    <img src="https://komarev.com/ghpvc/?username=nikhil-rawal">
 </a>
-<a href="https://github.com/placidnikz?tab=followers"><img src="https://img.shields.io/github/followers/placidnikz?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/placidnikz?tab=followers"><img src="https://img.shields.io/github/followers/nikhil-rawal?label=Followers&style=social" alt="GitHub Badge"></a>
