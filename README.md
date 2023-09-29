@@ -9,7 +9,7 @@
 
 ## 🙋🏻‍♂️ About Me
 
-- Currently working as Full Stack Developer and Designer at **[Incredibles Overseas Consultants](https://incredibles.netlify.app/)**
+- 📚 Currently working as Full Stack Developer and Designer at **[Incredibles Overseas Consultants](https://incredibles.netlify.app/)**
 
 - ☘ I’m currently applying **Full Stack Development**
 
