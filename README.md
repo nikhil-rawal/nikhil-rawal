@@ -10,7 +10,7 @@
 
 - 📚 Currently working as Full Stack Developer and Designer at **[Incredibles Overseas Consultants](https://incredibles.netlify.app/)**
 
-- ☘ I’m currently applying **Full Stack Development**
+- ☘ I’m also capabale of working with **Full Stack Development with MERN Stack**
 
 - 🧛🏻‍♂️ I’m looking to collaborate on **OpenSource Projects**
 
