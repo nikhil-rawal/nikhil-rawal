@@ -8,7 +8,9 @@
 
 ## 🙋🏻‍♂️ About Me
 
-- 📚 Currently working as Full Stack Developer and Designer at **[Incredibles Overseas Consultants](https://incredibles.netlify.app/)**
+- 💻 Employed as React Frontend Developer and Web Designer at **[Incredibles Overseas Consultants](https://incredibles.netlify.app/)**
+
+- ⌨️ Currently working on SRS (Student Record System) to make Management easier than ever at **[Incredibles Overseas Consultants](https://incredibles.netlify.app/)**
 
 - ☘ I’m also capabale of working with **Full Stack Development with MERN Stack**
 
