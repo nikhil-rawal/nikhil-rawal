@@ -69,7 +69,7 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/nikhil-rawal/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=nikhil-rawal&color=brightgreen&style=for-the-badge&label=My+Profile+Views">
+    <img src="https://komarev.com/ghpvc/?username=nikhil-rawal&color=brightgreen&style=flat&label=My+Profile+Views">
 </a>
 <a href="https://github.com/nikhil-rawal?tab=followers">
   <img src="https://img.shields.io/github/followers/nikhil-rawal?label=MY+GITHUB+FOLLOWERS&style=social&color=deepblue" alt="GitHub Badge">
