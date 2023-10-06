@@ -68,7 +68,7 @@
 <br/>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/nikhil-rawal/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=nikhil-rawal">
 </a>
-<a href="https://github.com/placidnikz?tab=followers"><img src="https://img.shields.io/github/followers/nikhil-rawal?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/nikhil-rawal?tab=followers"><img src="https://img.shields.io/github/followers/nikhil-rawal?label=Followers&style=social" alt="GitHub Badge"></a>
