@@ -71,4 +71,6 @@
 <a href="https://github.com/nikhil-rawal/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=nikhil-rawal&color=brightgreen&style=for-the-badge&label=My+Profile+Views">
 </a>
-<a href="https://github.com/nikhil-rawal?tab=followers"><img src="https://img.shields.io/github/followers/nikhil-rawal?label=My+Followers&style=social&color=deepblue" alt="GitHub Badge"></a>
+<a href="https://github.com/nikhil-rawal?tab=followers">
+  <img src="https://img.shields.io/github/followers/nikhil-rawal?label=My+Followers&style=social&color=deepblue&label=My+GitHub+Followers" alt="GitHub Badge">
+</a>
