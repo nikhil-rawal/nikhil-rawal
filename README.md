@@ -14,7 +14,7 @@
 
 - ☘ I’m also capabale of working with **Full Stack Development with MERN Stack**
 
-- 🧛🏻‍♂️ I’m looking to collaborate on **OpenSource Projects**
+- 📎 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨🏻‍💻 Take a glance at **[My Portfolio](https://nikhil-rawal-portfolio.netlify.app/)**
 
