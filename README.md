@@ -6,7 +6,7 @@
 
 <br/>
 
-## 🙋🏻‍♂️ About Me 💁🏻‍♂️
+## 🙋🏻‍♂️ - About Me - 💁🏻‍♂️
 
 - 💻 Employed as React Frontend Developer and Web Designer at **[Incredibles Overseas Consultants](https://incredibles.netlify.app/)**
 
