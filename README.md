@@ -8,6 +8,8 @@
 
 ## 🙋🏻‍♂️ - About Me - 💁🏻‍♂️
 
+- 🤩 Take a look at my latest project **[The Fork](https://the-fork.netlify.app/)**
+
 - 💻 Working as React Frontend Developer and Web Designer at **[Incredibles Overseas Consultants](https://incredibles.netlify.app/)**
 
 - ⌨️ Currently working on - SRS (Student Record System) to make Management easier than ever at **[Incredibles Overseas Consultants](https://incredibles.netlify.app/)**
