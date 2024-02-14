@@ -63,6 +63,14 @@
 
 <br/>
 
+<td colspan="2" align="center">
+      <details open><summary>For a user or an organization</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.introduction.svg" alt=""></img></details>
+      <details><summary>For a repository</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.introduction.repository.svg" alt=""></img></details>
+      <img width="900" height="1" alt="">
+    </td>
+    
+<br/>
+
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/nikhil-rawal/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
