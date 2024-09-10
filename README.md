@@ -9,7 +9,7 @@
 ## 🙋🏻‍♂️ - About Me - 💁🏻‍♂️
 
 - 🤩 Take a look at my latest project **[The Fork](https://the-fork.netlify.app/)**
-    - P.S. It is a food delivery application showcasing restaurants using Live API from India's leading **[Swiggy's](https://www.swiggy.com/)** API.
+    - P.S. It's a food delivery application showcasing restaurants using Live API from India's leading **[Swiggy's](https://www.swiggy.com/)** API.
     - 🤫 Still under construction
 
 - 💻 Working as React Frontend Developer and Web Designer at **[Incredibles Overseas Consultants](https://incredibles.netlify.app/)**
