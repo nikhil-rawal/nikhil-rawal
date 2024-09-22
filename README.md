@@ -11,15 +11,17 @@
 - 🤩 Take a look at my latest project **[The Fork](https://the-fork.netlify.app/)**
     - P.S. It's a food delivery application showcasing restaurants using Live API from India's leading **[Swiggy's](https://www.swiggy.com/)** API.
     - 🤫 Still under construction
+    - YT on the way
 
 - 💻 Working as React Frontend Developer and Web Designer at **[Incredibles Overseas Consultants](https://incredibles.netlify.app/)**
     - ⌨️ working on - SRS (Student Record System) to make Management of students and files easier #GoDigital
 
-- ☘ I’m also capabale of working with **Full Stack Development with MERN Stack**
+- ☘ I’m also capabale of working with **Full Stack Development - MERN Stack**
 
 - 📎 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨🏻‍💻 Take a glance at **[My Portfolio](https://nikhil-rawal-portfolio.netlify.app/)**
+- Next one coming soon...
 
 - 📫 How to reach me **rawal.nikhil29@gmail.com**
 
