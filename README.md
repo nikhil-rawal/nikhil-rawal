@@ -12,10 +12,10 @@
 
 - 🤩 Take a look at my latest project **[My YouTube Clone](https://n-youtube.netlify.app)** and **[The Fork](https://the-fork.netlify.app/)**
 
-  - YouTube Clone - as name suggests is a youtube clone where I have added most of the youtube functionalities using the **[YouTube Public API](https://developers.google.com/youtube?hl=en)**.
+  - **[My YouTube Clone](https://n-youtube.netlify.app)** - as name suggests is a youtube clone where I have added most of the youtube functionalities using the **[YouTube Public API](https://developers.google.com/youtube?hl=en)**.
   - I will add more things here... ⏳
  
-  - P.S. It's a food delivery application showcasing restaurants using Live API from India's leading **[Swiggy's](https://www.swiggy.com/)** API.
+  - **[The Fork](https://the-fork.netlify.app/)** - is a food delivery application showcasing restaurants using Live API from India's leading **[Swiggy's](https://www.swiggy.com/)** API.
       
 - 💻 Working as React Frontend Developer and Web Designer at **[Incredibles Overseas Consultants](https://incredibles.netlify.app/)**
     - ⌨️ working on - SRS (Student Record System) to make Management of students and files easier #GoDigital
