@@ -24,7 +24,7 @@
 
 - 📎 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨🏻‍💻 Take a glance at **[My Portfolio](https://nikhil-rawal-portfolio.netlify.app/)**
+- 👨🏻‍💻 Take a glance at **[My Portfolio](https://nikhilrawal.ca)**
 - Next one coming soon...
 
 - 📫 How to reach me **rawal.nikhil29@gmail.com**
