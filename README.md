@@ -8,7 +8,7 @@
 
 
 
-## 🙋🏻‍♂️ - All About Me - 💁🏻‍♂️
+## 🙋🏻‍♂️ - About Me - 💁🏻‍♂️
 
 - 🤩 Take a look at my latest project **[My YouTube Clone](https://n-youtube.netlify.app)** and **[The Fork](https://the-fork.netlify.app/)**
 
