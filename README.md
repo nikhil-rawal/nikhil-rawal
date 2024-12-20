@@ -17,23 +17,15 @@
  
   - **[The Fork](https://the-fork.netlify.app/)** - is a food delivery application showcasing restaurants using Live API from India's leading **[Swiggy's](https://www.swiggy.com/)** API.
       
-- 💻 Working as React Frontend Developer and Web Designer at **[Incredibles Overseas Consultants](https://incredibles.netlify.app/)**
-    - ⌨️ working on - SRS (Student Record System) to make Management of students and files easier #GoDigital
+- 💻 React.js Frontend Developer and Web Designer
 
 - ☘ I’m also capabale of working with **Full Stack Development - MERN Stack**
 
 - 📎 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨🏻‍💻 Take a glance at **[My Portfolio](https://nikhilrawal.ca)**
-- Next one coming soon...
 
 - 📫 How to reach me **rawal.nikhil29@gmail.com**
-
-- 🎯 Fun fact 1  **I love playing games.**
-
-- 🥘 Fun fact 2  **I am a foodie.**
-
-- 📚 This series changed my views towards Javascript. Must watch [🙏Namaste Javascript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 
   <br/> 
 
@@ -50,6 +42,7 @@
   <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="My SQL"/> </a>  
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="scss" width="43" height="43"alt="SASS"/> </a>
+  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express JS" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express JS" width="40" height="40"/> </a>
 </p>
 
