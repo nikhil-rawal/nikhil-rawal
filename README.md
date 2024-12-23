@@ -10,6 +10,13 @@
 
 ## 🙋🏻‍♂️ - About Me - 💁🏻‍♂️
 
+- 👨🏻‍💻 Take a glance at **[My Portfolio - nikhilrawal.ca](https://nikhilrawal.ca)**
+
+
+This is my personal portfolio website, built using **React.js** and styled with **TailwindCSS**. It showcases my projects and includes features such as light/dark mode toggling, responsive design, and more.
+
+---
+
 - 🤩 Take a look at my latest project **[My YouTube Clone](https://n-youtube.netlify.app)** and **[The Fork](https://the-fork.netlify.app/)**
 
   - **[My YouTube Clone](https://n-youtube.netlify.app)** - as name suggests is a youtube clone where I have added most of the youtube functionalities using the **[YouTube Public API](https://developers.google.com/youtube?hl=en)**.
@@ -22,8 +29,6 @@
 - ☘ I’m also capabale of working with **Full Stack Development - MERN Stack**
 
 - 📎 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨🏻‍💻 Take a glance at **[My Portfolio](https://nikhilrawal.ca)**
 
 - 📫 How to reach me **rawal.nikhil29@gmail.com**
 
