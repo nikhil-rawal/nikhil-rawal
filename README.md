@@ -2,6 +2,7 @@
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nikhil Rawal !</h1>
 <h3 align="center">I'm just a creator.</h3>
+<h3 align="center">MERN Stack</h3>
 <h3 align="center">JavaScript, React.js, TypeScript, Next.js</h3>
 
 <br/>
