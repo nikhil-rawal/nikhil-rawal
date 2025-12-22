@@ -5,6 +5,8 @@
 
 <br/>
 
+# MY TECH STACK
+
 ## 🚀 Frontend Core
 *Building modern, responsive, and accessible user interfaces.*
 
@@ -15,6 +17,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+<br/>
 
 ## 🎨 UI, Styling & Design Systems
 *Reusable components, design consistency, and pixel-perfect UI.*
@@ -27,6 +30,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
+<br/>
 
 ## 🧠 State, Auth & Data Flow
 *Predictable state management and secure authentication.*
@@ -34,6 +38,7 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
+<br/>
 
 ## 🧩 Backend & APIs
 *Full-stack experience building and consuming scalable APIs.*
@@ -43,6 +48,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
+<br/>
 
 ## ☁️ Cloud, DevOps & Deployment
 *Shipping reliable applications with modern cloud tooling.*
@@ -54,6 +60,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
+<br/>
 
 ## 🧪 Testing & Code Quality
 *Confidence through testing and consistent standards.*
@@ -62,6 +69,7 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
+<br/>
 
 ## 🔧 Tooling & Collaboration
 *Efficient workflows and team collaboration.*
@@ -72,6 +80,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+<br/>
 
 ## 🧰 IDEs, Design & Productivity
 *Tools I use daily to design, build, and ship faster.*
@@ -80,6 +89,7 @@
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+<br/>
 
 ## 🤖 AI-Assisted Development
 *Leveraging AI to improve speed, quality, and decision-making.*
@@ -90,6 +100,8 @@
 ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
+
+<br/>
 
 ## 📬 Let's Connect
 
