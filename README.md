@@ -106,6 +106,7 @@
 
 <br/>
 
+<!--
 ## 📊 GitHub Stats
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nikhil-rawal&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="80%" /></p>
@@ -113,6 +114,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-rawal&langs_count=10&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" width="80%" align="center"/></p>
 
 <br/>
+-->
 
 ## 📬 Let’s Connect
 
