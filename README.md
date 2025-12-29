@@ -123,7 +123,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-rawal)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d9488?style=for-the-badge&logo=vercel&logoColor=white)](https://nikhilrawal.ca)
 [![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhil-rawal)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rawal.nikhil29@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nikhil-rawal&color=0d9488&style=flat-square&label=PROFILE+VIEWS)
 
