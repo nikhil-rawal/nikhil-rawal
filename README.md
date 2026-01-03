@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave"/> Hello, I'm Nikhil Rawal</h1>
-<h3 align="center">Frontend Engineer @myAbode Inc. Toronto | React.js, Node.js</h3>
+<h3 align="center">Full Stack Engineer | Frontend Engineer @myAbode Inc. Toronto | React.js, Node.js</h3>
 <h3 align="center">I build high-traffic AI-Powered Real Estate Platforms which is trusted by 7,000+ agents, supporting 100K+ transactions and visited by over 1M+ people monthly</h3>
 
 <br/>
